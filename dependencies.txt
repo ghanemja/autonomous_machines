@@ -6,3 +6,4 @@ vim
 code
 python3-colcon-common-extensions
 python3-rosdep
+jstest-gtk
